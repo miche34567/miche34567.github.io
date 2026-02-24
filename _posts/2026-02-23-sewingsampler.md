@@ -10,5 +10,5 @@ mathjax: true
 author: Michelle Ametekpor
 ---
 Hey guys! Check out my sewing sampler. I put a lot of time and effort into this endeavor. 
-
+![Github gh-pages push screenshot](/example-website/img/github-push-ghpages.png){: .center-block :}
 Here is my sewing tip: Get an embroidery hoop! It makes the material so much firmer. 
