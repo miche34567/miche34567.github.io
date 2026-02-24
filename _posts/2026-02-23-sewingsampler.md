@@ -7,5 +7,8 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Michelle Ametekpor
 ---
+Hey guys! Check out my sewing sampler. I put a lot of time and effort into this endeavor. 
+
+Here is my sewing tip: Get an embroidery hoop! It makes the material so much firmer. 
