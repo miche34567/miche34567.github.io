@@ -10,3 +10,5 @@ mathjax: true
 author: Michelle Ametekpor
 ---
 Hey y'all! I made a circuit plushy.
+
+assets/img/IMG_7380 Small.jpeg
