@@ -11,4 +11,5 @@ author: Michelle Ametekpor
 ---
 Hey y'all! I made a circuit plushy.
 
-assets/img/IMG_7380 Small.jpeg
+![Github gh-pages push screenshot](/assets/img/IMG_7612 Medium.jpeg){: .center-block :}
+
