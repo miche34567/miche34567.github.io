@@ -10,16 +10,16 @@ mathjax: true
 author: Michelle Ametekpor
 ---
 Hey y'all! I made homemade switches using paper clips and electrical tape. 
-
+First, I prototyped it with alligator clips. 
 
 ![Github gh-pages push screenshot](/assets/img/IMG_7380 Small.jpeg){: .center-block :}
 
+Then, I drew the prototype. 
+![Github gh-pages push screenshot](/assets/img/IMG_7799 Medium.jpeg){: .center-block :}
 
-![Github gh-pages push screenshot](/assets/img/IMG_7695 Small.jpeg){: .center-block :}
-
-
-![Github gh-pages push screenshot](/assets/img/IMG_7693 Small.jpeg){: .center-block :}
-![Github gh-pages push screenshot](/assets/img/IMG_7694 Small.jpeg){: .center-block :}
+Here is it on my sampler!
+![Github gh-pages push screenshot](/assets/img/IMG_7800 Medium.jpeg){: .center-block :}
+![Github gh-pages push screenshot](/assets/img/IMG_7801 Medium.jpeg){: .center-block :}
 
 Here is my pro tip: 
-Keep your wires away from each other by cutting off less thread to work with. 
+Have fun, electricity flows through more stuff than you expect. 
