@@ -10,10 +10,8 @@ mathjax: true
 author: Michelle Ametekpor
 ---
 Hey y'all! I made a ghost detector. The arduino board lights up when the room is cold and suddenly becomes dark. This denotes the presence of a ghost!
-![Github gh-pages push screenshot](/assets/img/IMG_7964 Small.jpeg){: .center-block :} 
 
-![Github gh-pages push screenshot](/assets/img/IMG_7964 Small.jpeg){: .center-block :} 
-
+![Github gh-pages push screenshot](/assets/img/IMG_7983 Medium.jpeg){: .center-block :} 
 
 
 Here is my pro tip: 
