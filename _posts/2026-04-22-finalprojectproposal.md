@@ -9,7 +9,7 @@ comments: true
 mathjax: true
 author: Michelle Ametekpor
 ---
-Hey y'all! I have a sppoky final project proposal. Its a ghost sweater!
+Hey y'all! I have a spooky final project proposal. Its a ghost sweater!
 
 ![Github gh-pages push screenshot](/assets/img/CSCI 103 Presentation Small.jpeg){: .center-block :} 
 
