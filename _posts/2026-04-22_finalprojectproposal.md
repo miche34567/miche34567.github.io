@@ -11,6 +11,6 @@ author: Michelle Ametekpor
 ---
 Hey y'all! I have a sppoky final project proposal. Its a ghost sweater!
 
-![Github gh-pages push screenshot](/assets/img/IMG_7983 Medium.jpeg){: .center-block :} 
+![Github gh-pages push screenshot](/assets/img/CSCI 103 Presentation Small.jpeg){: .center-block :} 
 
 
