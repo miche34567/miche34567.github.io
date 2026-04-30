@@ -9,5 +9,7 @@ mathjax: true
 author: Michelle Ametekpor
 ---
 Hey y'all! Here is my paper proposal of my prototype.
+I took off the buzzer and left the light sensor and temperature sensor as analog outputs.
 
-![Github gh-pages push screenshot](/assets/img/CSCI 103 Presentation Small.jpeg){: .center-block :} 
+
+![Github gh-pages push screenshot](/assets/img/IMG_8092 Large.jpeg){: .center-block :} 
