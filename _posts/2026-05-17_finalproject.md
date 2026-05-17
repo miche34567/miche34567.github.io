@@ -31,7 +31,7 @@ The first picture depicts the connections while the board it still intact to tra
 The second picture depicts the connections with the board split into pieces. 
 
 Here are three states of my project:
-
+assets/img/IMG_8309.jpeg
 
 3 tips to my past self:
 
