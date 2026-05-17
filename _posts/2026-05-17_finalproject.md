@@ -29,7 +29,8 @@ The first picture depicts the connections while the board it still intact to tra
 
 The second picture depicts the connections with the board split into pieces. 
 
-Here is a video of my project working:
+Here are three states of my project:
+
 
 3 tips to my past self:
 
