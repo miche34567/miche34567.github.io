@@ -33,7 +33,7 @@ The second picture depicts the connections with the board split into pieces.
 Here are three states of my project:
 ![Github gh-pages push screenshot](/assets/img/IMG_8309.jpeg){: .center-block :}
 This is when it is cold and the ghost wants to scare a person.
-![Github gh-pages push screenshot](assets/img/IMG_8310.jpeg){: .center-block :}
+![Github gh-pages push screenshot](/assets/img/IMG_8310.jpeg){: .center-block :}
 This is when the ghost is incognito because there is not enough light to make its presence known.
 ![Github gh-pages push screenshot](/assets/img/IMG_8311.jpeg){: .center-block :}
 This is when the ghost is friendly and emits a green light.
