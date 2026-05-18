@@ -23,6 +23,7 @@ Temperature Sensor
 1 LilyPad LiliPo
 
 Here is my revised paper prototype:
+![Github gh-pages push screenshot](/assets/img/IMG_8348.jpeg){: .center-block :}
 
 Here is my alligator prototype working:
 
