@@ -15,3 +15,5 @@ Here is the flashblub, connected by the A5 pin.
 ![Github gh-pages push screenshot](/assets/img/IMG_8366.jpeg){: .center-block :}
 Here is the firefly, using the onboard RGB.
 ![Github gh-pages push screenshot](/assets/img/IMG_8369.jpeg){: .center-block :}
+Here is the synchronous firefly
+![Github gh-pages push screenshot](/assets/img/IMG_8366.jpeg){: .center-block :}
